@@ -34,3 +34,9 @@ ALL ですべて取得<br>
 <br>TEACHIG<br>
 教材の条件<br>
 ALL ですべて取得<br>
+
+# 使用技術
+Python<br>
+pyInstaller<br>
+Selenium<br>
+ChromeDriver<br>

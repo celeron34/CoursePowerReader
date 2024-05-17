@@ -1,9 +1,10 @@
 # CoursePowerReader
 中部大学が使用している授業管理ツール「Course Power」にて自動でCSVファイルにするプログラム<br>
-お使いのChromeのバージョンにあったchromedriverを同じディレクトリに入れる必要があります<br>
+CPR.exeを起動すると動きます．<br>
+<s>お使いのChromeのバージョンにあったchromedriverを同じディレクトリに入れる必要があります<br>
 各自でダウンロードしてください<br>
 <a href="https://chromedriver.chromium.org/downloads">https://chromedriver.chromium.org/downloads</a><br>
-もとから入っているのは105です
+もとから入っているのは105です</s>
 
 # option.txt
 オプションを指定できます<br>
